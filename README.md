@@ -64,9 +64,5 @@ The dataset includes two columns:
 2. Open `SMS Spam Detection Analysis - NLP.ipynb` using Jupyter Notebook or Google Colab.
 3. Install the required packages (if not already installed):
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn nltk
-```
 
-4. Run all cells in order.
 
